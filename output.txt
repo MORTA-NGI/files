@@ -1,2 +1,2 @@
-Sum of 2 and 1 is: 3
-Quotient of 2 divided by 1 is: 2.00
+Sum of 33 and 23 is: 56
+Quotient of 33 divided by 23 is: 1.43
